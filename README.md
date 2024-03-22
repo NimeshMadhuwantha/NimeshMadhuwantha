@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nimesh-madhuwantha-8a37102b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesh-madhuwantha-8a37102b4/" height="30" width="40" /></a>
 <a href="https://fb.com/nimesh.madhuwantha.359?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimesh.madhuwantha.359?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@nitromesh?si=vhvasaxfwksy21bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@nitromesh?si=vhvasaxfwksy21bd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCSnCM9wzQGMM81OBeURnf_g#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCSnCM9wzQGMM81OBeURnf_g#" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@janmadhuwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@janmadhuwantha" height="30" width="40" /></a>
 </p>
 
